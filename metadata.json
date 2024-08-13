@@ -1,0 +1,6 @@
+{
+  "name": "Test_token",
+  "symbol": "teto",
+  "description": "Test token",
+  "image": "https://raw.githubusercontent.com/solana-developers/opos-asset/main/assets/CompressedCoil/image.png"
+}
