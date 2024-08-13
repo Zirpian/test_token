@@ -2,5 +2,5 @@
   "name": "Test_token",
   "symbol": "teto",
   "description": "Test token",
-  "image": "https://raw.githubusercontent.com/solana-developers/opos-asset/main/assets/CompressedCoil/image.png"
+  "image": "https://github.com/Zirpian/test_token/blob/main/test_token.png"
 }
